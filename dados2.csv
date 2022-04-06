@@ -1,0 +1,28 @@
+Bairro;Tipo;N de quartos;Preço (mil)
+Barra;Apto.;2;165
+Barra;Apto.;3;240
+Barra;Cobt.;3;158
+Barra;Sala;0;90
+Botafogo;Apto.;2;270
+Catete;Apto.;1;250
+Centro;Sala;1;110
+Copacabana;Apto.;2;210
+Copacabana;Apto.;2;200
+Copacabana;Apto.;3;280
+Flamengo;Apto.;>=4;330
+Flamengo;Cobt.;1;180
+Gávea;Apto.;3;290
+Jacarepaguá;Apto.;>=4;320
+Ipanema;Apto.;3;276
+Lagoa;Apto.;3;254
+Laranjeiras;Apto.;2;220
+Laranjeiras;Apto.;2;219
+Leblon;Apto.;>=4;340
+Leblon;Apto.;3;260
+Maracanã;Apto.;>=4;338
+Recreio;Cobt.;3;290
+São Conrado;Casa;>=4;430
+Tijuca;Apto.;2;200
+Tijuca;Apto.;2;210
+Tijuca;Casa;>=4;370
+Vila Isabel;Apto.;2;230
